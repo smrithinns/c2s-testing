@@ -12,4 +12,4 @@ COPY . /app
 # RUN npm install
 
 # Command to run the Node.js application
-CMD ["node", "hello.js"]
+CMD ["node", "node.js"]
